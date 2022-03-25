@@ -1,5 +1,5 @@
 
-var title = new MovingTitle("michas <3 | ", 300, 10);
+var title = new MovingTitle("murzyn | ", 300, 10);
 title.init();
 function MovingTitle(writeText, interval, visibleLetters) {
   var _instance = {};

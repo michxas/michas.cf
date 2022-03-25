@@ -1,8 +1,8 @@
 
 
 new Typed('#typed',{
-    strings : ['michas','Bid Dev with Big Namer "Neksio"','skid/nerd','python copy paster','simp4zosia','GitHub Enjoyer'],
-    typeSpeed : 40,
+    strings : ['masny','bababooey','known as nigger killer 2009','black people hater','rasist','black balls'],
+    typeSpeed : 70,
     delaySpeed : 40,
     loop : true
   });
